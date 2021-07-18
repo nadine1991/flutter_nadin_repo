@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/Search"
+        android:icon="@drawable/ic_baseline_search_24"
+        android:title="Search"
+        app:showAsAction="ifRoom"
+        app:actionViewClass="android.widget.SearchView" />
+    <item
+        android:id="@+id/addImage"
+        android:icon="@drawable/ic_baseline_camera_alt_24"
+        android:title="Add"
+        app:showAsAction="ifRoom|withText"
+
+        />
+    <item
+        android:id="@+id/trash_icon"
+        android:icon="@drawable/ic_baseline_delete_24"
+        android:title="delete"
+        app:showAsAction="ifRoom|withText"
+
+        />
+</menu>

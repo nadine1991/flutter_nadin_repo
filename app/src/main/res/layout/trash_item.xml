@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/lightPink"
+    android:orientation="horizontal"
+    android:id="@+id/trash_item_view"
+    android:padding="10dp"
+    android:layout_margin="10dp">
+
+
+        <ImageView
+            android:id="@+id/ivImage"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+
+
+            app:srcCompat="@drawable/baloon" />
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tvTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:fontFamily="casual"
+            android:text="Title"
+
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/tvDes"
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="casual"
+            android:paddingLeft="10pt"
+            android:text="................" />
+        <TextView
+            android:id="@+id/tvTime"
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="casual"
+            android:paddingLeft="10pt"
+            android:text="................" />
+
+    </LinearLayout>
+
+    </LinearLayout>
+

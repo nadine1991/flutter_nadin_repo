@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "882123947538",
+    "firebase_url": "https://car-store-298a7-default-rtdb.firebaseio.com",
+    "project_id": "car-store-298a7",
+    "storage_bucket": "car-store-298a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882123947538:android:b002a9b9c8e3912894a2cb",
+        "android_client_info": {
+          "package_name": "com.example.CarStore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882123947538-6g1ujmcuu8u67knmfr1p03dulm9aivjc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHG-db3xd3LA8oE-bj10FCkw90FsOxNGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "882123947538-6g1ujmcuu8u67knmfr1p03dulm9aivjc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882123947538:android:956b10a2d4ead41294a2cb",
+        "android_client_info": {
+          "package_name": "com.example.gallery_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882123947538-6g1ujmcuu8u67knmfr1p03dulm9aivjc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHG-db3xd3LA8oE-bj10FCkw90FsOxNGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "882123947538-6g1ujmcuu8u67knmfr1p03dulm9aivjc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

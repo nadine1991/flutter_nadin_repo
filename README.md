@@ -1,4 +1,4 @@
-#Android Galler APP
+Android Feeds Application
 
 Functionality:
 The app contains two layouts 

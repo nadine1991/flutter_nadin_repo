@@ -21,4 +21,6 @@ Techniques:
 *Firebase storage.
 
 
+https://www.linkedin.com/posts/nadin-martini-76013619a_androiddevelopment-androiddeveloper-androiddev-activity-6822987217581998080-A9q7
+
 
